@@ -1,0 +1,76 @@
+.navbar navbar-expand-lg navbar-dark bg-dark{
+    width: 600px;
+    
+    }
+    .navbar-brand{
+      nav-up:current;
+    
+    }
+    /* .nav-link active{
+      mar
+    }
+ */
+
+ .btn-outline-success{
+  background-color: #c3e8ee;
+  border: none;
+  border-radius: 5px;
+  border-width: 30px;
+  
+
+}
+
+.serch-lable{
+
+  border-radius: 5px;
+  border-color: #c3e8ee;
+  border-width: 2pt;
+  background-color: white;
+  margin-right: 10px;
+  
+}
+.login-btn{
+  margin-right: 35px;
+  text-shadow: 1.2px;
+  cursor: pointer;
+  color: white;
+  font-size: 1.3em;
+}
+.tracking-btn{
+  margin-right: 80px;
+  
+  cursor: pointer;
+  color: white;
+  font-size: 1.3em;
+  
+}
+.payment-nav{
+
+  font-size: 1.3em;
+  margin-right: 80px;
+  color: white;
+  cursor: pointer;
+}
+
+.order-nav{
+
+  font-size: 1.3em;
+  margin-right: 80px;
+  color: white;
+}
+.home-nav{
+  font-size: 1.3em;
+  margin-right: 80px;
+  color: white;
+}
+.main-nav{
+  font-size: 1.4em;
+  margin-right:60px; 
+  color: coral;
+}
+.dropdown-toggle{
+  font-size: 1.3em;
+  margin-right: 80px;
+  color: white;
+  margin-top: -10px;
+}

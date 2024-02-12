@@ -1,0 +1,105 @@
+.pageName1{
+    margin-left: 300px;
+   margin-bottom: -10px;
+    margin-top: 45px;
+    font-size: 1.3 em;
+}
+.Formgroup2{ 
+   
+    margin-left: 125pt;
+    margin-top: 20px;
+    color: blue;
+}
+.lable11-lable{
+    font-size: 1 em;
+    color: blue;
+}
+.input11-input{
+    width: 300px;
+    margin-left: 70px;
+      border-radius: 5px;
+      border-color: blue;
+    
+}
+.lable22-lable{
+    font-size: 1 em;
+    color: blue;
+}
+.input22-input{
+    width: 300px;
+    margin-left: 70px;
+    border-radius: 5px;
+    border-color: blue;   
+}
+.lable33-lable{
+font-size: 1 em;
+    color: red;
+}
+.input33-input{
+    width: 300px;
+    margin-left: 70px;
+      border-radius: 5px;
+      border-color: blue;
+}
+.lable44-lable{
+    font-size: 1 em;
+        color: blue;
+}.input44-input{
+    width: 300px;
+    margin-left: 70px;
+      border-radius: 5px;
+      border-color: blue;
+    
+}
+.lable55-lable{
+    font-size: 1 em;
+        color: blue;
+}
+.input55-input{
+    width: 300px;
+    margin-left: 70px;
+      border-radius: 5px;
+      border-color: blue;
+    margin-bottom: 20px;
+}
+.Btn-back{
+    margin-left: 140pt;
+    width: 150px;
+    height: 35px;
+    margin-top: -30px;
+    background-color: #d35400;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    font-size: 1.2em;
+    transition: 0.3s;
+}
+.Btn-add{
+    margin-left: 50pt;
+    width: 150px;
+    height: 35px;
+    margin-top: -20px;
+    background-color:darkblue;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    font-size: 1.2em;
+    transition: 0.3s;
+}
+.submit-btn{
+    margin-top: 15px;
+    margin-left: 385pt;
+    width: 70px;
+    height: 35px;
+    background-color: darkblue;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    font-size: 1em;
+    transition: 0.3s;
+}
+.img-css{
+    margin-left: 600px;
+    margin-top: -550px;
+    padding: 5em;
+}

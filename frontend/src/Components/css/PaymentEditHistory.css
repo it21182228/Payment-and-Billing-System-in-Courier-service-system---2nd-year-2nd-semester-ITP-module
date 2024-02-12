@@ -1,0 +1,60 @@
+h4{
+    margin-left: 300px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+}
+.btn-cancel{
+    margin-left: 175px;  
+    width: 150px;
+    height: 35px;
+    background-color:#d35400;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    font-size: 1.2em;
+    transition: 0.3s; 
+}
+.btn-update{
+    margin-left: 60pt;  
+    width: 150px;
+    height: 35px;
+    background-color: darkblue;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    font-size: 1.2em;
+    transition: 0.3s; 
+}
+
+.i1-input{
+  border-color: blue;
+  width: 250px;
+  margin-left: 82px;
+  border-radius: 5px;
+}
+.i2-input{
+border-color: blue;
+width: 250px;
+margin-left: 74px;
+border-radius: 5px;
+}  
+.i3-input{
+margin-left: 113px;
+border-color: blue;
+border-radius: 5px;
+}
+.l1-lable{
+color: blue;
+}
+.l2-lable{
+color: blue;
+}
+.l3-lable{
+color: blue;
+}
+.img3-css{
+    margin-left: 700px;
+    margin-top: -300px;
+
+}

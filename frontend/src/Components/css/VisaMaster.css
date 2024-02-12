@@ -1,0 +1,100 @@
+
+
+
+.view-container{
+    align-items: left;
+    margin-left: 25pt;
+    
+    
+}
+  .pageName{
+    margin-left: 306px;
+   
+    margin-top: 45px;
+    font-size: 1.3 em;
+   margin-bottom: 25px;
+    
+  }
+  
+  .formgroup2{
+    margin-left: 125pt;
+    margin-top: 20px;
+    color: blue;
+  }
+  
+  .btn-pay{
+    margin-left: 50pt;
+    width: 150px;
+    height: 35px;
+    
+    background-color: darkblue;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    font-size: 1.2em;
+    transition: 0.3s;
+  }
+  
+  
+  .btn-back{
+    margin-left: 175px;
+    width: 150px;
+    height: 35px;
+    background-color:#d35400;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    font-size: 1.2em;
+    transition: 0.3s;
+    
+  }
+  .btn-back,.btn-pay{
+    cursor: pointer;
+    box-shadow: 4px 4px 8px rgba(black, alpha  0.5);
+  
+  }
+  
+  h4{
+    
+    margin-left: 150pt;
+  }
+  .lable1-lable{
+    font-size: 1 em;
+    color: red;
+    
+    }
+    .lable2-lable{
+      font-size: 1 em;
+      color: blue;
+    }
+    .lable3-lable{
+      font-size: 1 em;
+      color: red;
+      
+    }
+    .input1-input{
+      margin-left: 112px;
+      border-radius: 5px;
+      border-color: blue;
+    
+    }
+    .img2-css{
+      margin-left: 700px;
+      margin-top: -400px;
+    }
+    
+    .input2-input{
+      margin-left: 112px;
+      border-radius: 5px;
+      border-color: blue;
+    
+    }
+    
+    
+    .input3-input{ 
+      margin-left: 112px;
+      border-radius: 5px;
+      border-color: blue;
+    
+    } 
+  

@@ -1,0 +1,96 @@
+.Payment-banner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 1200px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-left: 60px;
+    border-color: rgb(226, 243, 252);
+    background-color: rgb(226, 243, 252);
+}
+.Payment-title{
+    margin-bottom: 3px;
+    font-size: 1.4em;
+    margin-right: -10px;
+}
+ .Track-align{
+    margin-left: 100px;
+ }    
+
+ .table-payment {
+    
+    margin-left: 100px; 
+}
+.table-hd1{
+   
+    margin-right: 50px;
+}
+.table-hd2{
+    margin-left: 100px;
+}
+.table-hd3{
+    margin-left: 100px;
+    margin-right: 50px;
+}
+.table-hd5{
+    margin-left: 100px;
+}
+.table-hd4{
+    margin-left: 100px;
+}
+.delete-btn{
+    margin-right: 50px;
+    width: 90px;
+    height: 35px;
+    background-color:#d35400;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    font-size: 1.2em;
+    transition: 0.3s; 
+}
+.track-table{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.edit-btn{
+    margin-right: 60px;
+    width: 90px;
+    height: 35px;
+    background-color: rgb(14, 14, 190);
+    border: none;
+    border-radius: 5px;
+    color:white;
+    font-size: 1.2em;
+    transition: 0.3s; 
+}
+.generate-btn{
+    margin-left: 955px;
+    width: 180px;
+    height: 35px;
+margin-top: 40px;
+    background-color: gray;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    font-size: 1.2em;
+    transition: 0.3s; 
+}
+.btn-search{
+    margin-left: 1100px;
+}
+.search-area{
+    margin-left: 20px;
+    color:  blue;
+    
+}
+.search-text{
+    margin-left: 800px;
+    font-size: 1.1em;
+    color: black;
+}
